@@ -1,0 +1,11 @@
+sudo apt-get install git
+git clone http://github.com/Jimmy1996/test
+cd test2
+ls -l
+git add movie_new.java 
+git commit -m "爬取新闻"
+git config --global user.email  "491987631@qq.com"
+git config --global user.name "Jimmy1996"
+git commit -m "爬取新闻"
+git push
+history
